@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "937622440156",
+    "firebase_url": "https://ibmfirebaseproject-f816c.firebaseio.com",
+    "project_id": "ibmfirebaseproject-f816c",
+    "storage_bucket": "ibmfirebaseproject-f816c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937622440156:android:55bc9e124b9bcc3d",
+        "android_client_info": {
+          "package_name": "com.example.kash.ibm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937622440156-vt418005q77iohn9q4gagfgdh5bkcq5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kash.ibm",
+            "certificate_hash": "0efd5cce3e6ff67cc56bae2f6bf6b78007463df5"
+          }
+        },
+        {
+          "client_id": "937622440156-dknqt56e007m0ll24g9v5him83p1tllf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_zvUDvgo0LqmKCP8ixt3yv7zKbLfRv2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937622440156-dknqt56e007m0ll24g9v5him83p1tllf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
