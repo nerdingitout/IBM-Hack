@@ -17,4 +17,8 @@
     <string name="history">HISTORY</string>
     <string name="home">HOME</string>
 
+    <string name="what_s_on_your_mind">Enter your query</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="appbar_scrolling_view_behavior">appbar_scrolling_view_behavior</string>
+
 </resources>
